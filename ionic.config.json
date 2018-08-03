@@ -1,0 +1,7 @@
+{
+  "name": "meerkat",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
