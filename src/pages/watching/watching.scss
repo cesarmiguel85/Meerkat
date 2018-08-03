@@ -1,0 +1,32 @@
+page-watching {
+    .toolbar-background {
+        background-color: #af7106 !important;
+        color: white !important;
+    }
+    .toolbar-title.toolbar-title-md,
+    .toolbar-title.toolbar-title-ios,
+    .toolbar-title.toolbar-title-wp,
+    .button-inner {
+        color: white !important;
+    }
+    ion-content {
+        background-color: #efefef !important;
+    }
+    #sensRange {
+        padding: 0px;
+        font-size: 1.5rem;
+    }
+    .item-range {
+        padding-left: 0px !important;
+    }
+    #sensLabel {
+        margin: 0px;
+        margin-top: 1em;
+    }
+    table * {
+        text-align: center;
+    }
+    table {
+        width: 100%;
+    }
+}
